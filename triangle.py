@@ -13,7 +13,3 @@ if a+b>c and b+c>a and a+c>b:
            print('The defined lengths create an obtuse triangle')
 else:
     print('It\'s not possible to create a triangle of the defined lengths')
-
-print(f'The lenght of side a is: {a}')
-print(f'The lenght of side b is: {b}')
-print(f'The lenght of side c is: {c}')
